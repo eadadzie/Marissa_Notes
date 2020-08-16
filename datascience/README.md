@@ -21,12 +21,6 @@
 
 [R for Data Science](https://r4ds.had.co.nz/) written by Garrett Grolemund, Hadley Wickham. (O’Reilly) Copyright 2017 O’Reilly Media, Inc.,  ISBN: 978-1-491-91039-9. **[Download PDF](https://qlx.services/institute/files/R_For_Data_Science.pdf)**
 
-### Julia
-- - -
-
-**Tech Talent South** [Data Science: **Julia** Setup and Installation Checklist](#)
-
-[Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. (O’Reilly) Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8. **[Download PDF](https://qlx.services/institute/files/think_julia.pdf)**
 
 - - - 
 
@@ -71,11 +65,7 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.
 
-### Data Science Fundamentals: Julia
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/julia/index.ipynb)
-
-Julia is a high-level, high-performance, dynamic programming language. While it is a general purpose language and can be used to write any application, many of its features are well-suited for high-performance numerical analysis and computational science.
 
 ### Data Science Fundamentals: Python-based Web Framework - Django 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/frameworks/18_mod_django/index.ipynb)
